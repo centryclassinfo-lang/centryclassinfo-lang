@@ -41,16 +41,6 @@ varios cursos en una ruta de aprendizaje.
 | **Modelamiento numérico** | Mecánica de suelos avanzada y métodos de diferencias finitas |
 | **Programación aplicada** | Python para resolver, automatizar y visualizar problemas geotécnicos |
 
-## ¿Qué encontrarás en este GitHub?
-
-Este espacio reúne material técnico abierto que acompaña nuestra formación:
-
-- Scripts y notebooks de Python aplicados a geotecnia y geología
-- Plantillas de cálculo y procesamiento de datos de ensayos
-- Ejemplos prácticos usados en clase
-
-Puedes usarlos, adaptarlos y proponer mejoras mediante *issues* o *pull requests*.
-
 ## Herramientas con las que trabajamos
 
 `Python` · `Excel` · `Civil 3D` · `ArcGIS` · `Global Mapper` · `RS2` · `Slide` ·
