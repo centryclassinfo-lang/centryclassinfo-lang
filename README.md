@@ -7,7 +7,15 @@
 Cursos y programas de especialización dictados por profesionales en ejercicio,
 pensados para ingenieros que trabajan en minería, obras civiles y medio ambiente.
 
+
+## Contacto
+
+[![Web](https://img.shields.io/badge/Web-centryclass.com-0B5ED7?style=flat&logo=googlechrome&logoColor=white)](https://www.centryclass.com)
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-Escríbenos-25D366?style=flat&logo=whatsapp&logoColor=white)](https://wa.me/51921056464)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-CentryClass-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/school/centryclass/)
+[![Facebook](https://img.shields.io/badge/Facebook-CentryClass-1877F2?style=flat&logo=facebook&logoColor=white)](https://www.facebook.com/)
+[![Instagram](https://img.shields.io/badge/Instagram-centryclass-E4405F?style=flat&logo=instagram&logoColor=white)](https://www.instagram.com/centryclass)
+[![Email](https://img.shields.io/badge/Email-centryclass.info@gmail.com-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:centryclass.info@gmail.com)
 </div>
 
 ---
